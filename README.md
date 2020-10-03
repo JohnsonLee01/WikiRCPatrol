@@ -1,7 +1,7 @@
 # RC patrol
-Lightweight RC patrol script for Wikipedia and other MediaWiki wikis (no extensions or configuration required for the end user).
+Tập lệnh RC patrol nhẹ cho Wikipedia và các wiki MediaWiki khác (không yêu cầu cấu hình hoặc tiện ích mở rộng cho người dùng cuối).
 
-The goal of this is to have a lightweight, cross-wiki RC patrol script that works on many MediaWiki wikis out of the box.  The script should be powerful and customizable to any wiki, with features that can be enabled/disabled or reconfigured for any particular wiki.
+Mục tiêu của việc này là có một kịch bản RC patrol xuyên wiki nhẹ, hoạt động trên nhiều wiki MediaWiki. Tập lệnh phải mạnh mẽ và có thể tùy chỉnh cho bất kỳ wiki nào, với các tính năng có thể được bật/tắt hoặc cấu hình lại cho bất kỳ wiki cụ thể nào.
 
-## Contributing
-At the moment, the way you can contribute is through pull/merge requests.
+## Đóng góp
+Hiện tại, cách bạn có thể đóng góp là thông qua các yêu cầu kéo/hợp nhất.
