@@ -41,7 +41,7 @@ $magicWords = [
  **/
 function getCredits() {
 ?>
-* MIT Licensed - see https://github.com/Awesome-Aasim/WikiRCPatrol/blob/master/LICENSE
+* MIT Licensed - see https://github.com/JohnsonLee01/WikiRCPatrol/blob/master/LICENSE
 * 
 * Copyright (c) 2020 Awesome Aasim and contributors
 * 
@@ -70,7 +70,7 @@ function getCredits() {
  **/
 function getNotice() {
 ?>
-* This script is a work in progress.  Your help in developing this tool is welcomed at https://github.com/Awesome-Aasim/WikiRCPatrol.
+* This script is a work in progress.  Your help in developing this tool is welcomed at https://github.com/JohnsonLee01/WikiRCPatrol.
 * Contributions and changes to this script should be made at the GitHub repository above.
 * All other changes will be lost if this file is rebuilt and saved.
 * By contributing to this project, you agree to release your work under the MIT license.
